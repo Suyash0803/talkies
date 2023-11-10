@@ -1,0 +1,28 @@
+/* Upcoming.css */
+
+.upcome {
+    padding: 20px 0; /* Add padding as needed */
+  }
+  
+  .container {
+    max-width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: column; /* Adjust as needed */
+    align-items: center;
+  }
+  
+  .heading {
+    text-align: center; /* Center align the heading */
+    margin: 30px 0;
+  }
+  
+  .heading h1 {
+    font-weight: 500;
+  }
+  
+  .content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
